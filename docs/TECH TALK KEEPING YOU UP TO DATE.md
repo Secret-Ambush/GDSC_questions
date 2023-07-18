@@ -1,4 +1,4 @@
-# TECH TALK: KEEPING YOU UP TO DATE 👩‍💻👨‍💻
+# Tech talk: Keeping you up to date 👩‍💻👨‍💻
 
 ### A RECURRING WORKSHOP
 
