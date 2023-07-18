@@ -8,7 +8,7 @@ We have seen a lot of workshops covering the usual hot topics - Data Science, Ma
 
 I propose to introduce this concept to GDSC. Let's breakdown how I wish this to go about.
 
-### Possible topics :
+### Possible topics 
 As the title says, we will introduce new technologies, AI based applications, Python libraries to the participants. Let me give some examples:
 
 - AI tools: ControlNet for AI art generation, GitHub CoPilot, chatpdf, contents AI tool, Bard v/s ChatGPT 
@@ -17,16 +17,16 @@ As the title says, we will introduce new technologies, AI based applications, Py
 
 *and so much more!*
 
-### How to decide the topic :
+### How to decide the topic 
 ** We could have a schedule. Or even hold a poll on Instagram (or even Threads! *sad twitter noises*), this way our social media handles can get more attention.
 
-### Hosting the workshop: 
+### Hosting the workshop
 The duration of the workshop will be relatively short compared to regular ones - say an hour at most. It will be a presentation and hands-on format. We could rotate the host through the tech team.
 
-### Do I have experience doing this? : 
+### Do I have experience doing this? 
 Glad you asked, I do! I got the opportunity to do a presentation at Emirates in front of the RO heads and staff. I introduced Polars library to my line manager, and he was happy to see a possible replacement of Pandas. Here's the link to my presentation: [Introducing Polars.pdf - Google Drive](https://drive.google.com/file/d/1yR7pIU3On_yzlDBxHv8aWZlyidgyecNq/view?usp=sharing). I even had a live demostration showing the difference in syntax and speed. I even had a opportunity to have a discussion about GitHub. For this, I encouraged my peers to join me and we demostrated the many benefits of collaborating on the platform.
 
-### An example workshop :
+### An example workshop
 
 comparision in speed and difference in syntax
 
