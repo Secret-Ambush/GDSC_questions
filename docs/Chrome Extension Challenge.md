@@ -1,10 +1,10 @@
 # TechX: Chrome Extension Challenge
 
-## Description:
+## Description
 
 TechX: Chrome Extension Challenge is a competition organized by GDSC BPDC, Dubai, that aims to foster innovation and creativity among college students. The competition welcomes participants from all backgrounds, including *non-coders*, while offering exciting challenges for coders to showcase their skills. 
 
-## Format:
+## Format
 
 1. **Problem Statement:** Participants are presented with a set of real-world problems or challenges related to various industries or domains. (*similar to GDSC Solution Challenge but this time we will limit the problem*) Say, we can limit the problem statement to environmental sustainability. 
 
@@ -12,7 +12,7 @@ TechX: Chrome Extension Challenge is a competition organized by GDSC BPDC, Dubai
 
 3. **Solution Development:** Participants develop their solutions, keeping in mind the target audience, user experience, and impact. *Non-coders can focus on designing prototypes, while coders can implement functional prototypes*.
    
-## Example Solution:
+## Example Solution
 
 A problem could be how to *ensure child safety when browsing the net*.
 
